@@ -1,4 +1,4 @@
-# IAC
+# IAC-AAMAS(2021)
 
 This is a pytorch implementation of IAC on [Multi-Agent Particle Environment(MPE)](https://github.com/openai/multiagent-particle-envs), the corresponding paper of IAC is [Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2102.06042).
 
